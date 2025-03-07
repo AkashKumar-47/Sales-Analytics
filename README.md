@@ -8,7 +8,7 @@ The objective of this project is to analyze and visualize sales data to gain act
 
 ## Key Questions:
 
--What are the monthly profit trends?
+- What are the monthly profit trends?
 -Which sub-categories contribute the most to the profit?
 -How is the sales amount distributed across states and customers?
 -Which payment modes are most frequently used across different categories?
