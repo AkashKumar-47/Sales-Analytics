@@ -26,7 +26,7 @@ The objective of this project is to analyze and visualize sales data to gain act
 - <a href = "https://github.com/AkashKumar-47/Data-analytics/blob/main/Ecommerce%20Saled%20Dashboard.png">Image</a>
 
 # Process of the Project
-1.	Data Collection:
+## 1.	Data Collection:
 o	Two datasets were used:
 	Details (order_id, amount, profit, quantity, category, sub_category, payment_mode, AOV)
 	Orders (order_id, order_date, customer_name, state, city)
