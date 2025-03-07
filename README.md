@@ -1,4 +1,4 @@
-# What is Power BI?
+  # What is Power BI?
 Power BI is a business Intelligence and data visualisation tool that converts data from various data sources into interactive dashboard and analysis reports.
 
 # Project Objective
@@ -53,3 +53,7 @@ The objective of this project is to analyze and visualize sales data to gain act
 ## Dashboard Image
 
 ![Ecommerce Saled Dashboard](https://github.com/user-attachments/assets/0e960364-4a3a-489c-8748-a2e633c20960)
+
+## Final Conclusion
+The Power BI dashboard delivers a robust analysis of sales performance across multiple dimensions. It enables stakeholders to identify key profit drivers, customer behaviors, and regional trends, facilitating data-driven decision-making.
+This interactive tool can be expanded with additional datasets or enhanced KPIs to provide deeper insights into future business operations.
