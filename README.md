@@ -49,3 +49,7 @@ The objective of this project is to analyze and visualize sales data to gain act
 3.	**State & Customer Analysis:** A few states and high-value customers contribute disproportionately to the total revenue.
 4.	**Payment Mode Preferences:** Customers exhibit clear preferences for specific payment methods across different categories.
 5.	**Overall Performance Metrics:** The dashboard provides a snapshot of essential metrics (Total Amount, Profit, Quantity, and AOV).
+
+## Dashboard Image
+
+![Ecommerce Saled Dashboard](https://github.com/user-attachments/assets/0e960364-4a3a-489c-8748-a2e633c20960)
