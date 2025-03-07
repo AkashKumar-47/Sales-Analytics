@@ -44,8 +44,10 @@ The objective of this project is to analyze and visualize sales data to gain act
 - Added interactive slicers for Quarter and State to filter the data dynamically.
 
 ## Project Insights
-1.  Profit Trends: Certain months exhibit significantly higher profits, indicating seasonal trends.
-3.	Sub-Category Contribution: Specific sub-categories drive the majority of profits, highlighting key revenue drivers.
+1.  Profit Trends:
+- Certain months exhibit significantly higher profits, indicating seasonal trends.
+3.	Sub-Category Contribution:
+- Specific sub-categories drive the majority of profits, highlighting key revenue drivers.
 3.	State & Customer Analysis: A few states and high-value customers contribute disproportionately to the total revenue.
 4.	Payment Mode Preferences: Customers exhibit clear preferences for specific payment methods across different categories.
 5.	Overall Performance Metrics: The dashboard provides a snapshot of essential metrics (Total Amount, Profit, Quantity, and AOV).
