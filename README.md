@@ -27,7 +27,7 @@ The objective of this project is to analyze and visualize sales data to gain act
 
 # Process of the Project
 ## 1.	Data Collection:
-- 1.  Two datasets were used:
+- Two datasets were used:
   - Details (order_id, amount, profit, quantity, category, sub_category, payment_mode, AOV)
   - Orders (order_id, order_date, customer_name, state, city)
 ## 2.	Data Cleaning & Transformation:
@@ -36,10 +36,10 @@ The objective of this project is to analyze and visualize sales data to gain act
 - Created calculated measures for KPIs such as Total Profit, Total Quantity, Total Amount, and AOV.
 ## 3.	Dashboard Creation:
 - Built interactive visualizations using Power BI:
-  - 1.	Profit by Month (Stacked Column Chart)
-  - 2.	Profit by Sub-Category (Stacked Bar Chart)
-  - 3.	Sum of Amount by State and Customer Name (Stacked Bar Chart)
-  - 4.	Sum of Quantity by Category and Payment Mode (Donut Chart)
-  - 5.	Key Metrics (Cards for Total Amount, Total Profit, Total Quantity, and AOV)
+  - Profit by Month (Stacked Column Chart)
+  - Profit by Sub-Category (Stacked Bar Chart)
+  - Sum of Amount by State and Customer Name (Stacked Bar Chart)
+  - Sum of Quantity by Category and Payment Mode (Donut Chart)
+  - Key Metrics (Cards for Total Amount, Total Profit, Total Quantity, and AOV)
 - Added interactive slicers for Quarter and State to filter the data dynamically.
 
