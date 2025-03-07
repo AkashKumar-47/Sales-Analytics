@@ -28,8 +28,8 @@ The objective of this project is to analyze and visualize sales data to gain act
 # Process of the Project
 ## 1.	Data Collection:
 - Two datasets were used:
-  - Details (order_id, amount, profit, quantity, category, sub_category, payment_mode, AOV)
-  - Orders (order_id, order_date, customer_name, state, city)
+  - <a href = "https://github.com/AkashKumar-47/Data-analytics/blob/main/Details.xlsx">Details</a>
+  - <a href = "https://github.com/AkashKumar-47/Data-analytics/blob/main/Orders.xlsx">Orders</a>
 ## 2.	Data Cleaning & Transformation:
 - Ensured proper data types for each field (e.g., date, numeric values).
 - Established relationships between the "Details" and "Orders" datasets using the common field "order_id."
