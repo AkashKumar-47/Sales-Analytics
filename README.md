@@ -13,3 +13,10 @@ The objective of this project is to analyze and visualize sales data to gain act
 - How is the sales amount distributed across states and customers?
 - Which payment modes are most frequently used across different categories?
 - What are the key sales metrics (Total Amount, Total Profit, Total Quantity, Average Order Value)?
+
+## Key Performance Indicators (KPIs):
+
+- Total Amount
+- Total Profit
+- Total Quantity
+- Average Order Value (AOV)
