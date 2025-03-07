@@ -45,7 +45,7 @@ The objective of this project is to analyze and visualize sales data to gain act
 
 ## Project Insights
 1.  Profit Trends:
-- Certain months exhibit significantly higher profits, indicating seasonal trends.
+  - Certain months exhibit significantly higher profits, indicating seasonal trends.
 3.	Sub-Category Contribution:
 - Specific sub-categories drive the majority of profits, highlighting key revenue drivers.
 3.	State & Customer Analysis: A few states and high-value customers contribute disproportionately to the total revenue.
