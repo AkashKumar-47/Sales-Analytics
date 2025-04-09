@@ -21,10 +21,6 @@ The objective of this project is to analyze and visualize sales data to gain act
 - Total Quantity
 - Average Order Value (AOV)
 
-## Dashboard
-
-- <a href = "https://github.com/AkashKumar-47/Data-analytics/blob/main/Ecommerce%20Saled%20Dashboard.png">Image</a>
-
 # Process of the Project
 ## 1.	Data Collection:
 - Two datasets were used:
